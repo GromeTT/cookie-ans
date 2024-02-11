@@ -10,4 +10,3 @@
   hooks:
     - id: ansible-lint
       args: ['--exclude=roles/junos_*', '--exclude=roles/vyos_*']
-
